@@ -3,6 +3,7 @@ import { createDrawerNavigator } from "@react-navigation/drawer";
 import Home from "../pages/Home";
 import New from "../pages/New";
 import { Button } from "react-native";
+import Profile from "../pages/Profile";
 
 const Drawer= createDrawerNavigator();
 
@@ -22,6 +23,7 @@ export default function AppRoutes(){
         }}>
             <Drawer.Screen name="Home" component={Home}/>
             <Drawer.Screen name="Registro" component={New} />
+            <Drawer.Screen name="Perfil" component={Profile} />
             
             
             

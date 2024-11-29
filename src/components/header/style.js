@@ -3,7 +3,7 @@ import styled from "styled-components/native";
 export const Container = styled.SafeAreaView`
 flex-direction:row;
 align-items:center;
-justify-content:flex-start;
+justify-content:space-between;
 margin-top:30px;
 margin-left:5px;
 margin-bottom:1px;
