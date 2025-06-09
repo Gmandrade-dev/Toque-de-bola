@@ -15,11 +15,11 @@ Toque de Bola é um aplicativo mobile desenvolvido em React Native voltado para 
 🛠️ Tecnologias utilizadas
 React Native (Expo ou CLI)
 
-Firebase / AsyncStorage (dependendo da versão)
+Firebase / AsyncStorage 
 
 JavaScript
 
-Styled Components (se usado para estilização)
+Styled Components 
 
 🚀 Objetivo
 Ajudar grupos a manterem um controle financeiro claro e prático, com uma interface intuitiva e acessível de qualquer lugar.
